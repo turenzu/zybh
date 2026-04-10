@@ -60,7 +60,7 @@
    <img width="276" height="84" alt="image" src="https://github.com/user-attachments/assets/18da12e1-a2e8-4dab-8e6f-d0b25f109add" />
 
 
-**✅ 完成！之后脚本将每隔 15 天自动执行一次保活任务，也可以根据自己需求修改登录天数。**
+**✅ 完成！之后脚本将每隔 10 天自动执行一次保活任务，也可以根据自己需求修改登录天数。**
 
 ---
 
