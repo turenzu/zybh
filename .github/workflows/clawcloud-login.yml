@@ -3,7 +3,7 @@ name: ClawCloud 自动登录（2FA认证）
 
 on:
   schedule:
-    - cron: '0 0 */15 * *'
+    - cron: '0 0 */10 * *'
   workflow_dispatch:
 
 jobs:
