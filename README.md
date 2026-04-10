@@ -56,11 +56,10 @@
 3. 点击右侧的 **Run workflow** 下拉菜单 -> 点击绿色 **Run workflow** 按钮。
 4. 等待运行完成，查看日志确保显示 `🎉 登录成功`。
 
----
 **✅ 完成！之后脚本将每隔 15 天自动执行一次保活任务。**
 
 ---
 
-***感谢以下作者***
+## 🌟 特别鸣谢
 
-[kystor](https://github.com/kystor)、[550530](https://github.com/550530)
+原作者：[kystor](https://github.com/kystor)、优化作者：[550530](https://github.com/550530)
