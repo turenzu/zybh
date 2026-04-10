@@ -62,4 +62,4 @@
 
 ## 🌟 特别鸣谢
 
-原作者：[kystor](https://github.com/kystor)、优化作者：[550530](https://github.com/550530)
+本项目基于原作者：[kystor](https://github.com/kystor)、优化作者：[550530](https://github.com/550530)，本人做了些调整，感谢原作者的贡献。
